@@ -6,3 +6,4 @@ int main()
   return 0;
 }
 
+# please check the coding guidelines for syntax
