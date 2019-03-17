@@ -1,3 +1,2 @@
-# rati-code
-
-Code base for self learning c++ and git tutorials
+# rati-github
+This is for me to learn about Github.
